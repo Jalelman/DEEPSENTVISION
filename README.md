@@ -2,9 +2,6 @@
 
   React Animated Admin Dashboard And Login Page
 
-# Video tutorial
-
-[https://youtu.be/CWpTAzOz6mE](https://youtu.be/CWpTAzOz6mE)<br>
 
 # Resource
 
